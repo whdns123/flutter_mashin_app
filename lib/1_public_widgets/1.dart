@@ -1,1 +1,1 @@
-dynamic
+prit("qddqwdqw")
